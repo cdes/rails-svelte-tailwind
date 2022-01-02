@@ -1,3 +1,4 @@
+import "./svelte/i18n";
 import DemoSvelteComponent from "./svelte/DemoSvelteComponent.svelte";
 
 window.addEventListener("load", () => {
